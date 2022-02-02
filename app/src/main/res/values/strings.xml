@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Api Weather Retrofit</string>
+    <string name="pesquisar_clima">Pesquisar cidade</string>
+    <string name="consultar_clima">Consultar Clima</string>
+    <string name="cidade">Cidade</string>
+    <string name="country">País</string>
+    <string name="celsius">22.22</string>
+    <string name="messagem_vazia">Por favor digite o nome da cidade</string>
+    <string name="erro">\"Error ao consultar: \"</string>
+    <string name="excluir">Item Excluído</string>
+</resources>
